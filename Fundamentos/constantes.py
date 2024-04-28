@@ -1,0 +1,3 @@
+BRAZILIAN_STATES = ["SP", "RJ", "SC", "PR", "BA", "RS", "MT"]
+
+print(BRAZILIAN_STATES)
